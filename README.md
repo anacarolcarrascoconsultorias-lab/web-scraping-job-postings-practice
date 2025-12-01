@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anacarolcarrascoconsultorias/web-scraping-job-postings/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/anacarolcarrascoconsultorias-lab/web-scraping-job-postings/main/banner.png" width="100%">
 </p>
 
 # Web Scraping Job Postings (Practice Job Board)
