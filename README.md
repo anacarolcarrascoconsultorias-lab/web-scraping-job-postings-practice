@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anacarolcarrascoconsultorias/web-scraping-job-postings/main/banner.png" width="100%">
+</p>
+
 # Web Scraping Job Postings (Practice Job Board)
 
 This project simulates the work of a junior data analyst at a recruitment agency. 
