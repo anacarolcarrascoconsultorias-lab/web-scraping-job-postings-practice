@@ -1,27 +1,36 @@
 # web-scraping-job-postings-practice
 
-This project simulates the work of a junior data analyst at a recruitment agency.
-I built a web scraping pipeline in Python (Google Colab) to collect job postings from a practice job board (realpython.github.io/fake-jobs) and then cleaned, analyzed, and visualized the data.
+# Web Scraping Job Postings (Practice Job Board)
 
-The goal is to demonstrate:
+This project simulates the work of a junior data analyst at a recruitment agency. 
+The goal is to improve job vacancy sourcing by automatically collecting and analyzing job postings from a structured job board.
 
-Web scraping with requests and BeautifulSoup
+## 🧠 What I Practiced
+- Web scraping with `requests` and `BeautifulSoup`
+- HTML structure inspection
+- Data cleaning with pandas
+- Location parsing (city/state)
+- Keyword extraction
+- Exploratory data analysis
+- Data visualization with matplotlib
+- Saving clean datasets to CSV
+- Structuring a reproducible data pipeline
 
-Converting HTML into a structured pandas DataFrame
+## 📊 Key Insights
+- Top hiring companies identified through frequency counts  
+- Most active cities with multiple reported openings  
+- Strong demand for engineering and Python-related roles  
+- Low presence of senior-level job postings  
 
-Cleaning and transforming text data
+## 📁 Project Files
+- `web_scraping_job_postings.ipynb` — Full Python notebook
+- `job_postings_fake_job.csv` — Final structured dataset
 
-Basic exploratory analysis and visualizations to support recruiting decisions
+## 🚀 Future Improvements
+- Replace practice site with a real job API (e.g., Arbeitnow Job Board API)
+- Add NLP keyword extraction (spaCy)
+- Deploy a dashboard (Looker Studio or Streamlit)
 
-Why a practice job board?
-Real-world job sites like Indeed or ZipRecruiter often have strong anti-scraping protections and Terms of Service that restrict automated scraping of their HTML.
-To keep this project ethical, reproducible, and focused on the data pipeline, I used a static practice job board specifically designed for web scraping education.
-
-“Future Improvements”
-
-Replace the practice site with a real job API (for example, a public job board API such as Arbeitnow’s Job Board API) to pull live job data. 
-arbeitnow.com
-
-Add dashboards in Looker Studio / Power BI for recruiters.
-
-Implement skills/keyword extraction and ranking.
+## 📬 Contact
+Ana Carolina Carrasco  
+Data Analyst (in progress)
